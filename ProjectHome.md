@@ -1,0 +1,1 @@
+este programa permite diagnosticar mediante los sintomas si una persona adolese de hepatitis a y b
